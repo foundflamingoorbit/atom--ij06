@@ -1,4 +1,4 @@
-# 
+# Enhance Atom for PC | Atom for Windows with rare Atom for PC | Atom for Windows Integration | plugin-system + live-share, the #1 integration. Includes plugin-system and live-share
 
 
 
